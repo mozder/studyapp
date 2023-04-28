@@ -32,11 +32,11 @@ The app provides a simple and efficient way for users to review information and 
 
 Contributions are welcome! To contribute to the project, please follow these steps:
 
-Fork the repository
-Create a new branch
-Make your changes and commit them
-Push your changes to your forked repository
-Create a pull request
+1. Fork the repository
+2. Create a new branch
+3. Make your changes and commit them
+4. Push your changes to your forked repository
+5. Create a pull request
 
 # Author
 
