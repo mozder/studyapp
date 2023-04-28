@@ -28,16 +28,6 @@ After answering all questions, the app displays the results of the study session
 
 The app provides a simple and efficient way for users to review information and test their knowledge on specific topics. With the ability to add new questions and select questions based on tags or random topics, the app can be customized to fit the user's needs. Additionally, the app logs the user's results to a file for future reference, allowing users to track their progress and identify areas for improvement.
 
-# Contribute
-
-Contributions are welcome! To contribute to the project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes and commit them
-4. Push your changes to your forked repository
-5. Create a pull request
-
 # Author
 
 Murat Ozder (muratozder@gmail.com)
